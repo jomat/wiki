@@ -612,7 +612,7 @@ h3, h4, h5, h6 { font: bold 80% sans-serif }
 .pageheader .actions ul li {
 	margin: 0;
 	padding: .1em .5em 0 .5em;
-	background: white;
+	background: black;
 	border-color: #999;
 	border-style: solid solid none solid;
 	border-width: 1px;
