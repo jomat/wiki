@@ -23,11 +23,11 @@
 # ocypete
 ## Portconfig
 [[!table  data="""
-|| Port || VLAN || Name/Notes ||
-|| 0 || trunk 1 || uplink -> ocypete port 2 ||
-|| 1 || VLAN 4 || gigaset-2 ||
-|| 2 || VLAN 5 || lazor ||
-|| 3 || trunk 1 || ||
-|| 4 || trunk 1 || ||
-|| 5 || trunk 1 || ||
+| Port | VLAN | Name/Notes |
+| 0 | trunk 1 | uplink -> ocypete port 2 |
+| 1 | VLAN 4 | gigaset-2 |
+| 2 | VLAN 5 | lazor |
+| 3 | trunk 1 | |
+| 4 | trunk 1 | |
+| 5 | trunk 1 | |
 """]]
