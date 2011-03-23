@@ -1,0 +1,88 @@
+# Vlan stuff on OpenWRT Backfire
+The below config isn't setting the pvids. Run those from /etc/rc.local:
+<pre>
+/sbin/swconfig dev rtl8366rb port 0 set pvid 2
+/sbin/swconfig dev rtl8366rb port 1 set pvid 3
+/sbin/swconfig dev rtl8366rb port 2 set pvid 1
+/sbin/swconfig dev rtl8366rb port 3 set pvid 1
+/sbin/swconfig dev rtl8366rb port 4 set pvid 1
+/sbin/swconfig dev rtl8366rb port 5 set pvid 1
+</pre>
+
+# /etc/config/network
+<pre>
+config 'interface' 'loopback'
+	option 'ifname' 'lo'
+	option 'proto' 'static'
+	option 'ipaddr' '127.0.0.1'
+	option 'netmask' '255.0.0.0'
+
+config 'interface' 'lan'
+	option 'ifname' 'eth0.1'
+	option 'proto' 'static'
+	option 'ipaddr' '192.168.1.1'
+	option 'netmask' '255.255.255.0'
+
+config 'interface' 'vlan2'
+	option 'ifname' 'eth0.2'
+	option 'proto' 'none'
+	option 'defaultroute' '0'
+	option 'peerdns' '0'
+
+config 'interface' 'vlan3'
+	option 'ifname' 'eth0.3'
+	option 'proto' 'none'
+	option 'defaultroute' '0'
+	option 'peerdns' '0'
+
+config 'switch'
+	option 'name' 'rtl8366rb'
+	option 'reset' '1'
+	option 'enable_learning' '1'
+	option 'enable_vlan' '1'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '0'
+	option 'pvid' '2'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '1'
+	option 'pvid' '3'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '2'
+	option 'pvid' '1'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '3'
+	option 'pvid' '1'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '4'
+	option 'pvid' '1'
+
+config 'switch_port'
+	option 'device' 'rtl8366rb'
+	option 'port' '5'
+	option 'pvid' '1'
+
+config 'switch_vlan'
+	option 'device' 'rtl8366rb'
+	option 'vlan' '1'
+	option 'ports' '2 3 4 5t'
+
+config 'switch_vlan'
+	option 'device' 'rtl8366rb'
+	option 'vlan' '2'
+	option 'ports' '0 2t 3t 4t 5t'
+
+config 'switch_vlan'
+	option 'device' 'rtl8366rb'
+	option 'vlan' '3'
+	option 'ports' '1 2t 3t 4t 5t'
+</pre>
