@@ -1,33 +1,33 @@
 # VLANs
 [[!table  data="""
-| ID | Name | Ports |
-| 1 | main | hotzenwirt[2,3,4,5] ocypete[0,3,4,5] |
-| 2 | HechenbergNet | hotzenwirt[0] |
-| 3 | gigaset-jomat |  hotzenwirt[1] |
-| 4 | gigaset-2 | ocypete[1] |
-| 5 | lazor | ocypete[2] |
+ID | Name | Ports
+1 | main | hotzenwirt[2,3,4,5] ocypete[0,3,4,5]
+2 | HechenbergNet | hotzenwirt[0]
+3 | gigaset-jomat |  hotzenwirt[1]
+4 | gigaset-2 | ocypete[1]
+5 | lazor | ocypete[2]
 """]]
 
 # hotzenwirt
 ## Portconfig
 [[!table  data="""
-| Port | VLAN | Name/Notes |
-| 0 | VLAN 2 | HechenbergNet |
-| 1 | VLAN 3 | gigaset-jomat |
-| 2 | trunk 1 | downlink -> ocypete port 0 |
-| 3 | trunk 1 | |
-| 4 | trunk 1 | |
-| 5 | trunk 1 | |
+Port | VLAN | Name/Notes
+0 | VLAN 2 | HechenbergNet
+1 | VLAN 3 | gigaset-jomat
+2 | trunk 1 | downlink -> ocypete port 0
+3 | trunk 1 | 
+4 | trunk 1 | 
+5 | trunk 1 | 
 """]]
 
 # ocypete
 ## Portconfig
 [[!table  data="""
-| Port | VLAN | Name/Notes |
-| 0 | trunk 1 | uplink -> ocypete port 2 |
-| 1 | VLAN 4 | gigaset-2 |
-| 2 | VLAN 5 | lazor |
-| 3 | trunk 1 | |
-| 4 | trunk 1 | |
-| 5 | trunk 1 | |
+Port | VLAN | Name/Notes
+0 | trunk 1 | uplink -> ocypete port 2
+1 | VLAN 4 | gigaset-2
+2 | VLAN 5 | lazor
+3 | trunk 1 | 
+4 | trunk 1 | 
+5 | trunk 1 | 
 """]]
