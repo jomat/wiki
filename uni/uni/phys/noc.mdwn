@@ -17,8 +17,10 @@ IP | name
 141.84.136.14 | alpkopf.cip.physik.uni-muenchen.de.
 141.84.136.15 | gern.cip.physik.uni-muenchen.de.
 141.84.136.16 | arber.cip.physik.uni-muenchen.de.
-141.84.136.17 | 141.84.136.18 video.cip.physik.uni-muenchen.de.
-141.84.136.19 | 141.84.136.20 kaiser2.cip.physik.uni-muenchen.de.
+141.84.136.17 | 
+141.84.136.18 | video.cip.physik.uni-muenchen.de.
+141.84.136.19 | 
+141.84.136.20 | kaiser2.cip.physik.uni-muenchen.de.
 141.84.136.21 | ankogel.cip.physik.uni-muenchen.de.
 141.84.136.22 | gamshag.cip.physik.uni-muenchen.de.
 141.84.136.23 | goell.cip.physik.uni-muenchen.de.
@@ -70,16 +72,24 @@ IP | name
 141.84.136.69 | 
 141.84.136.70 | xen-templ.cip.physik.uni-muenchen.de.
 141.84.136.71 | dhcp-saline.physik.uni-muenchen.de.
-141.84.136.72 | 141.84.136.73 xen-soft.cip.physik.uni-muenchen.de.
+141.84.136.72 | 
+141.84.136.73 | xen-soft.cip.physik.uni-muenchen.de.
 141.84.136.74 | cip-ha-xen01.cip.physik.uni-muenchen.de.
 141.84.136.75 | cip-ha-xen02.cip.physik.uni-muenchen.de.
 141.84.136.76 | cip-ha-xen03.cip.physik.uni-muenchen.de.
-141.84.136.77 | 141.84.136.78 141.84.136.79 141.84.136.80 xen-aetna-system1.cip.physik.uni-muenchen.de.
+141.84.136.77 | 
+141.84.136.78 | 
+141.84.136.79 | 
+141.84.136.80 | xen-aetna-system1.cip.physik.uni-muenchen.de.
 141.84.136.81 | xen-aetna-system2.cip.physik.uni-muenchen.de.
-141.84.136.82 | 141.84.136.83 141.84.136.84 cip-cups.cip.physik.uni-muenchen.de.
+141.84.136.82 | 
+141.84.136.83 | 
+141.84.136.84 | cip-cups.cip.physik.uni-muenchen.de.
 141.84.136.85 | cip-cups2.cip.physik.uni-muenchen.de.
 141.84.136.86 | cip-soft.cip.physik.uni-muenchen.de.
-141.84.136.87 | 141.84.136.88 141.84.136.89 ts01.server.physik.uni-muenchen.de.
+141.84.136.87 | 
+141.84.136.88 | 
+141.84.136.89 | ts01.server.physik.uni-muenchen.de.
 141.84.136.90 | ts02.server.physik.uni-muenchen.de.
 141.84.136.91 | 
 141.84.136.92 | 
