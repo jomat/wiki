@@ -1,0 +1,8 @@
+<pre>
+3: venet0: <BROADCAST,POINTOPOINT,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN 
+    inet 84.23.76.35/32 scope global venet0:0
+15: tap_int: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UNKNOWN qlen 500
+    link/ether 5a:42:23:74:00:0a brd ff:ff:ff:ff:ff:ff
+    inet 172.22.173.10/26 scope global tap_int
+    inet6 fe80::5842:23ff:fe74:a/64 scope link 
+</pre>
