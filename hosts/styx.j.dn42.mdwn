@@ -1,0 +1,18 @@
+styx is a mobile device running debian with changing net connections. It's traffic has to be secured by tinc. To accomplish this, the default gw has to be set to a private VPN gateway. I use policy routing to avoid routing the encrypted tunnel data over the tunnel.
+
+Current set up works with wireless connections either with DHCP or statically configured.
+It doesn't leave the system in a clean state after putting a interface down.
+
+Software pieces in use:
+
+* ifup/ifdown
+* wpa_supplicant
+* dhclient3
+
+[[files/etc/wpa_supplicant.conf]]
+
+[[files/etc/network/if-up.d/jomat]]
+
+[[files/etc/dhcp/script.sh]]
+
+[[files/usr/local/sbin/set_vpngw.sh]]
