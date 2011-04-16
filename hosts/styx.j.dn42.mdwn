@@ -9,10 +9,11 @@ Software pieces in use:
 * wpa_supplicant
 * dhclient3
 
-[[files/etc/wpa_supplicant.conf]]
+[[/etc/wpa_supplicant.conf|files/etc/wpa_supplicant.conf]]
 
-[[files/etc/network/if-up.d/jomat]]
+[[/etc/network/if-up.d/jomat|files/etc/network/if-up.d/jomat]]
 
-[[files/etc/dhcp/script.sh]]
+[[/etc/dhcp/script.sh|files/etc/dhcp/script.sh]]
 
-[[files/usr/local/sbin/set_vpngw.sh]]
+[[/usr/local/sbin/set_vpngw.sh|files/usr/local/sbin/set_vpngw.sh]]
+
