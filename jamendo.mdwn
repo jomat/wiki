@@ -1,0 +1,1 @@
+for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
