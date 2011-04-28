@@ -1,5 +1,9 @@
+#scriptfoo
+
+##unzip files
     for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
 
+##download album by albumid
     #!/bin/zsh
     ID=$1
     SERVER=0
