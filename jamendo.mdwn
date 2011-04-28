@@ -1,1 +1,18 @@
     for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
+
+    #!/bin/zsh
+    ID=$1
+    SERVER=0
+    until [ 0 != $SERVER -a 32 != $SERVER ]
+    do
+      SERVER=`wget -q -O- "http://www.jamendo.com/en/download/album/$ID/do?output=contentonly"|grep var\ dl_serverno|tr -c -d '0123456789'`
+    done
+
+    DATA=`wget -q -O- "http://download${SERVER}.jamendo.com/request/album/$ID/mp32/"|cut -d\' -f4`
+    ARTIST=`wget -O- -q "http://www.jamendo.com/get2/name/artist/plain/album_artist/?album_id=$ID"`
+    ALBUM=`wget -O- -q "http://api.jamendo.com/get2/name/album/plain/?id=$ID"`
+    echo server: $SERVER
+    echo data: $DATA
+    echo artist: $ARTIST
+    echo album: $ALBUM
+    wget "http://download${SERVER}.jamendo.com/download/album/$ID/mp32/$DATA/$ARTIST - $ALBUM (jamendo $ID).zip"
