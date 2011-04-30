@@ -3,9 +3,6 @@
 ##get 50 top-rated dubstep albums of this week
     wget -q -O- 'http://api.jamendo.com/get2/id+artist_name+name+duration/album/csv/?tag_idstr=dubstep&n=50&order=ratingweek_desc'
 
-##unzip files
-    for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
-
 ##download album by albumid
     #!/bin/zsh
     ID=$1
@@ -23,3 +20,6 @@
     echo artist: $ARTIST
     echo album: $ALBUM
     wget "http://download${SERVER}.jamendo.com/download/album/$ID/mp32/$DATA/$ARTIST - $ALBUM (jamendo $ID).zip"
+
+##unzip files
+    for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
