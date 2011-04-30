@@ -7,7 +7,7 @@
     #!/bin/zsh
     ID=$1
     SERVER=0
-    until [ 0 != $SERVER -a 32 != $SERVER ]
+    until [ "" != "$SERVER" -a 0 != "$SERVER" -a 32 != "$SERVER" ]
     do
       SERVER=`wget -q -O- "http://www.jamendo.com/en/download/album/$ID/do?output=contentonly"|grep var\ dl_serverno|tr -c -d '0123456789'`
     done
