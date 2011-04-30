@@ -19,7 +19,7 @@
     echo data: $DATA
     echo artist: $ARTIST
     echo album: $ALBUM
-    wget "http://download${SERVER}.jamendo.com/download/album/$ID/mp32/$DATA/$ARTIST - $ALBUM (jamendo $ID).zip"
+    wget -c "http://download${SERVER}.jamendo.com/download/album/$ID/mp32/$DATA/$ARTIST - $ALBUM (jamendo $ID).zip"
 
 ##unzip files
     for i in *.zip;do i=`echo $i|sed 's/.zip\$//'`;unzip "$i".zip -d"$i";done
