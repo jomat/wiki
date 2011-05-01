@@ -1,5 +1,8 @@
 #scriptfoo
 
+##get playlist of 50 weekly top-rated dubstep tracks
+    wget -q 'http://api.jamendo.com/get2/radioposition+id+stream/track/m3u/?tag_idstr=dubstep&n=50&order=ratingweek_desc' -O-
+
 ##get 50 top-rated dubstep albums of this week
     wget -q -O- 'http://api.jamendo.com/get2/id+artist_name+name+duration/album/csv/?tag_idstr=dubstep&n=50&order=ratingweek_desc'
 
