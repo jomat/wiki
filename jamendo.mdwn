@@ -4,6 +4,7 @@
     wget -q 'http://api.jamendo.com/get2/stream/track/m3u/?tag_idstr=dubstep&n=50&order=ratingweek_desc' -O-
 
 ##play 50 most downloaded dubstep tracks
+mplayer2 is needed for this or any other version that handles HTTP 307 Temporary Redirect
     mplayer -ao alsa -playlist 'http://api.jamendo.com/get2/stream/track/m3u/?tag_idstr=dubstep&n=50&order=downloaded_desc'
 
 ##get 50 top-rated dubstep albums of this week
