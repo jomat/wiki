@@ -34,6 +34,10 @@
     Alarm: Name sollte zur Firmware passen: ACAB zu ACAB, Uberbus zu Uberbus
     set- sagt "blubb" bei Erfolg
 
+## Minileds auf der Bridge:
+    rot ist senden
+    gruen ist empfangen
+
 ## Flashen
 ### firmware bauen
     flash-m324p will fnordlicht.hex
@@ -49,6 +53,11 @@
     cd trunk/acab
     python blink.py 6e
     6e ist Name der mit set gesetzt wurde
+
+## unbekannte Fnordlampen:
+   Lampe abstecken
+   ./select auf alles und laufen lassen
+   dann anstecken
 
 ## Lampenfarben
  * rot: Bootloader
