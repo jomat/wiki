@@ -1,7 +1,7 @@
 #Notizen
 ## Bridge
-svn co https://brezn.muc.ccc.de/svn/moodlamp-rf/
-cd moodlamp-rf/trunk/rs485bridge
-make program
+    svn co https://brezn.muc.ccc.de/svn/moodlamp-rf/
+    cd moodlamp-rf/trunk/rs485bridge
+    make program
 
-mit flasher mkii flashen
+    mit flasher mkii flashen
