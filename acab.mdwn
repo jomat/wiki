@@ -43,7 +43,12 @@
     cd -
     ./flash-m324p
     ./boot-*
+    Bootkommando gibt Timeout
 
+## testen:
+    cd trunk/acab
+    python blink.py 6e
+    6e ist Name der mit set gesetzt wurde
 
 ## Lampenfarben
  * rot: Bootloader
