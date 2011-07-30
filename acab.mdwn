@@ -22,7 +22,7 @@
     export PYTHONPATH=crcmod-1.6.1
     ./select-m324p "\x49"
       "\x49" ist beispielsweise ACAB
-      "lamp4bblahblah" ist beispielsweise Club
+      "lamp4Bblahblah" ist beispielsweise Club
       keinen String angegeben selektiert die, die als erstes bootet
     Resetkommando auf ACAB ist anders als auf Uberbus
     umgehen via Netzteil ab- und ausstecken (oder so)
