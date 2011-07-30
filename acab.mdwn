@@ -32,4 +32,14 @@
     mit flash-m*4p flashen
 
     Alarm: Name sollte zur Firmware passen: ACAB zu ACAB, Uberbus zu Uberbus
-    
+    set- sagt "blubb" bei Erfolg
+
+## Flashen
+### firmware bauen
+    flash-m324p will fnordlicht.hex
+    moodlamp-bus/makefile richtige cpu nehmen
+    cd moodlamp-bus
+    make
+    cd -
+    ./flash-m324p
+    ./boot-*
