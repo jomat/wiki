@@ -40,6 +40,9 @@
 
 ## Flashen
 ### firmware bauen
+    vor dem Name setzen selektieren
+    vor dem flashen Name setzen
+    ./set-m* 6f
     flash-m324p will fnordlicht.hex
     moodlamp-bus/makefile richtige cpu nehmen
     cd moodlamp-bus
@@ -47,6 +50,7 @@
     cd -
     ./flash-m324p
     ./boot-*
+    das einzige boot funktioniert fuer beide Varianten
     Bootkommando gibt Timeout
 
 ## testen:
