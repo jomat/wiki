@@ -5,3 +5,8 @@
     make program
 
     mit flasher mkii flashen
+    und USB einstellen (nicht ttyUSB)
+
+    Bridge mit ISP am Flasher
+    Bridge mit Patchkabel an "Stromversorgungsplatine" (2×RJ45-Buchse, 1×2-Pol-Anschluss für Netzteil)
+    Stromversorgungsplatine mit Patchpanel an Moodlamp
