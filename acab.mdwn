@@ -43,3 +43,10 @@
     cd -
     ./flash-m324p
     ./boot-*
+
+
+## Lampenfarben
+ * rot: Bootloader
+ * gruen: Bootloader selektiert
+ * Gelb stehend: ACAB-Lampe
+ * fadend: Uberbuslampe
