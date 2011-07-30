@@ -17,4 +17,4 @@
 
     Selektion:
     Siehe beispielsweise ./ubloader/select-m324p
-    
+    export PYTHONPATH=crcmod-1.6.1/src
