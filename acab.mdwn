@@ -11,10 +11,25 @@
     Bridge mit Patchkabel an "Stromversorgungsplatine" (2×RJ45-Buchse, 1×2-Pol-Anschluss für Netzteil)
     Stromversorgungsplatine mit Patchpanel an Moodlamp
 
-    Bootloadermodus Lampe wird grün
+    Bootloadermodus 
+      Bootloader ist rot, ausgewaehlter Bootloader ist gruen
     Auf ACAB flashen ID aendern
     ubloader laeuft auf Lampe
+    Lampe mit Miniusb an Notebook
 
     Selektion:
     Siehe beispielsweise ./ubloader/select-m324p
-    export PYTHONPATH=crcmod-1.6.1/src
+    export PYTHONPATH=crcmod-1.6.1
+    ./select-m324p "\x49"
+      "\x49" ist beispielsweise ACAB
+      "lamp4bblahblah" ist beispielsweise Club
+      keinen String angegeben selektiert die, die als erstes bootet
+    Resetkommando auf ACAB ist anders als auf Uberbus
+    umgehen via Netzteil ab- und ausstecken (oder so)
+    oder beide Reset-Kommandos hinereinander senden (joe hat den Code)
+
+    mit set-m*4p namen setzen
+    mit flash-m*4p flashen
+
+    Alarm: Name sollte zur Firmware passen: ACAB zu ACAB, Uberbus zu Uberbus
+    
