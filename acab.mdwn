@@ -19,6 +19,7 @@
 
     Selektion:
     Siehe beispielsweise ./ubloader/select-m324p
+    crcmod downloaden und entpacken: http://sourceforge.net/projects/crcmod/
     export PYTHONPATH=crcmod-1.6.1
     ./select-m324p "\x49"
       "\x49" ist beispielsweise ACAB
