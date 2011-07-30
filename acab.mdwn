@@ -10,3 +10,11 @@
     Bridge mit ISP am Flasher
     Bridge mit Patchkabel an "Stromversorgungsplatine" (2×RJ45-Buchse, 1×2-Pol-Anschluss für Netzteil)
     Stromversorgungsplatine mit Patchpanel an Moodlamp
+
+    Bootloadermodus Lampe wird grün
+    Auf ACAB flashen ID aendern
+    ubloader laeuft auf Lampe
+
+    Selektion:
+    Siehe beispielsweise ./ubloader/select-m324p
+    
