@@ -31,3 +31,4 @@ Bringen nicht so dringend
 * Feldbett
 * Klappstuhl
 * Altmobiltelephon/Freerunner
+* 12-Volt-Kompressor
