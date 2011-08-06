@@ -7,10 +7,8 @@ Bringen dringend
 * W Zahnbuerste
 * W Zahnpasta
 * W Rasierer
-* A Schlafsack
 * A Isomatte
 * T Socken, Unterhosen, Hosen, T-Shirts, Pullis
-* A Regenjacke
 * J Geld
 * T Badehose
 * T Handtücher
@@ -22,7 +20,6 @@ Bringen nicht so dringend
 
 * A Kissen (in Tuete verpackt)
 * W Seife (Haarwaschmittel und so Kram…)
-* A Schuhe
 * A 12-Volt-Kompressor
 * A Müllsäcke
 * R Pickset
@@ -38,13 +35,16 @@ Bloede Tasche:
 * T Altmobiltelephon/Freerunner
 * A/T Taschenschlampe
 * B Kompass, Stempel
+* A Schlafsack
 
 Auto:
 
+* A Schuhe
 * Zelt
 * Klappstuhl
 * (kaputte) Luftmatraze
 
+* A Regenjacke
 
 Legende:
 
