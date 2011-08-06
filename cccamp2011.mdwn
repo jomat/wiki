@@ -37,3 +37,10 @@ Bringen nicht so dringend
 * Müllsäcke
 * Pickset
 * Makita
+
+Legende:
+
+* A: ligt (unnereichbar) im Auto rum
+* W: Waschtasche
+* R: Rucksack
+* T: Reisetasche
