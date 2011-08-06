@@ -13,7 +13,6 @@ Bringen dringend
 * T Handtücher
 * A Kabeltrommel + Zubehoer
 * A/T Food: Jokurt, Kekse etc.
-* A Klopapier
 
 Bringen nicht so dringend
 
@@ -39,7 +38,7 @@ Bloede Tasche:
 * T Altmobiltelephon/Freerunner
 * A/T Taschenschlampe
 * B Kompass, Stempel
-* A Schlafsack
+* A Klopapier
 
 Auto:
 
@@ -48,7 +47,7 @@ Auto:
 * Klappstuhl
 * (kaputte) Luftmatraze
 * A Isomatte
-
+* A Schlafsack
 * A Regenjacke
 
 Legende:
