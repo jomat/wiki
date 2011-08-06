@@ -21,6 +21,7 @@ Bringen dringend
 * Akkuladegeraet
 * Kabeltrommel + Zubehoer
 * Food: Jokurt etc.
+* Klopapier
 
 Bringen nicht so dringend
 
@@ -35,4 +36,4 @@ Bringen nicht so dringend
 * 12-Volt-Kompressor
 * Müllsäcke
 * Pickset
-* Klopapier
+* Makita
