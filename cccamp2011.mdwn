@@ -9,7 +9,6 @@ Bringen dringend
 * W Zahnbuerste
 * W Zahnpasta
 * W Rasierer
-* A Zelt
 * A Schlafsack
 * A Isomatte
 * T Socken, Unterhosen, Hosen, T-Shirts, Pullis
@@ -31,12 +30,17 @@ Bringen nicht so dringend
 * A Schuhe
 * B Kompass, Stempel
 * A Feldbett
-* A Klappstuhl
 * T Altmobiltelephon/Freerunner
 * A 12-Volt-Kompressor
 * A Müllsäcke
 * R Pickset
 * A Makita
+
+Im Auto:
+* Zelt
+* Klappstuhl
+* (kaputte) Luftmatraze
+
 
 Legende:
 
