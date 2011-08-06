@@ -7,12 +7,12 @@ Bringen dringend
 * W Zahnbuerste
 * W Zahnpasta
 * W Rasierer
-* T Socken, Unterhosen, Hosen, T-Shirts, Pullis
 * J Geld
 * T Badehose
 * T Handtücher
 * A Kabeltrommel + Zubehoer
 * A/T Food: Jokurt, Kekse etc.
+* Lange Hose
 
 Bringen nicht so dringend
 
@@ -29,6 +29,10 @@ Rucksack:
 * Badehose
 * kurze Hose
 * R Pickset
+
+Tasche:
+
+* T Socken, Unterhosen, kurze Hosen, T-Shirts, Pullis
 
 Bloede Tasche:
 
