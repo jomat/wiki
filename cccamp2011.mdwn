@@ -40,7 +40,7 @@ Bringen nicht so dringend
 
 Legende:
 
-* A: ligt (unnereichbar) im Auto rum
+* A: liegt (unnereichbar) im Auto rum
 * W: Waschtasche
 * R: Rucksack
 * T: Reisetasche
