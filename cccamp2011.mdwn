@@ -1,4 +1,4 @@
-Bringen dringend
+#Bringen dringend
 
 * R Thinkpad-Netzteil
 * R Thinkpad
@@ -6,7 +6,7 @@ Bringen dringend
 * T Microusbkabel (Plural)
 * A/T Food: Jokurt, Kekse etc.
 
-Im Club nicht vergessen:
+#Im Club nicht vergessen:
 
 * A Müllsäcke
 * Badge an s übergeben
@@ -16,20 +16,20 @@ Im Club nicht vergessen:
 * W Zahnpasta
 * A Kabeltrommel + Zubehoer
 
-Gepackt:
+#Gepackt:
 
-Rucksack:
+##Rucksack:
 
 * Badehose
 * kurze Hose
 * R Pickset
 
-Tasche:
+##Tasche:
 
 * T Socken, Unterhosen, kurze Hosen, T-Shirts, Pullis
 * Lange Hose
 
-Bloede Tasche:
+##Bloede Tasche:
 
 * T Badehose
 * W Rasierer
@@ -41,7 +41,7 @@ Bloede Tasche:
 * B Kompass, Stempel
 * A Klopapier
 
-Auto:
+##Auto:
 
 * A 12-Volt-Kompressor
 * T Handtücher
@@ -54,7 +54,7 @@ Auto:
 * A Schlafsack
 * A Regenjacke
 
-Legende:
+#Legende:
 
 * A: liegt (unnereichbar) im Auto rum
 * W: Waschtasche
