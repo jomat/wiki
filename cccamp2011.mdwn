@@ -1,10 +1,8 @@
 Bringen dringend
 
 * R Thinkpad-Netzteil
-* T Thinkpad-Netzteil
 * R Thinkpad
 * J N900
-* T DECT-Phon incl. Ladestation
 * T Microusbkabel (Plural)
 * W Zahnbuerste
 * W Zahnpasta
@@ -16,8 +14,6 @@ Bringen dringend
 * J Geld
 * T Badehose
 * T Handtücher
-* A/T Taschenschlampe
-* A/T Akkuladegeraet
 * A Kabeltrommel + Zubehoer
 * A/T Food: Jokurt, Kekse etc.
 * A Klopapier
@@ -27,15 +23,23 @@ Bringen nicht so dringend
 * A Kissen (in Tuete verpackt)
 * W Seife (Haarwaschmittel und so Kram…)
 * A Schuhe
-* B Kompass, Stempel
-* A Feldbett
-* T Altmobiltelephon/Freerunner
 * A 12-Volt-Kompressor
 * A Müllsäcke
 * R Pickset
 * A Makita
 
-Im Auto:
+Gepackt:
+
+Bloede Tasche:
+
+* T Thinkpad-Netzteil
+* A/T Akkuladegeraet
+* T DECT-Phon incl. Ladestation
+* T Altmobiltelephon/Freerunner
+* A/T Taschenschlampe
+* B Kompass, Stempel
+
+Auto:
 
 * Zelt
 * Klappstuhl
