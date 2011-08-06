@@ -8,7 +8,6 @@ Bringen dringend
 * J Geld
 * T Badehose
 * T Handtücher
-* A Kabeltrommel + Zubehoer
 * A/T Food: Jokurt, Kekse etc.
 * Lange Hose
 
@@ -24,7 +23,7 @@ Im Club nicht vergessen:
 * Aspirin
 * W Zahnbuerste
 * W Zahnpasta
-
+* A Kabeltrommel + Zubehoer
 
 Gepackt:
 
