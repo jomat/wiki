@@ -4,7 +4,6 @@ Bringen dringend
 * R Thinkpad
 * J N900
 * T Microusbkabel (Plural)
-* W Rasierer
 * T Badehose
 * T Handtücher
 * A/T Food: Jokurt, Kekse etc.
@@ -38,6 +37,7 @@ Tasche:
 
 Bloede Tasche:
 
+* W Rasierer
 * T Thinkpad-Netzteil
 * A/T Akkuladegeraet
 * T DECT-Phon incl. Ladestation
