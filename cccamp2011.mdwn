@@ -4,8 +4,6 @@ Bringen dringend
 * R Thinkpad
 * J N900
 * T Microusbkabel (Plural)
-* W Zahnbuerste
-* W Zahnpasta
 * W Rasierer
 * J Geld
 * T Badehose
@@ -17,9 +15,16 @@ Bringen dringend
 Bringen nicht so dringend
 
 * A Kissen (in Tuete verpackt)
-* W Seife (Haarwaschmittel und so Kram…)
 * A 12-Volt-Kompressor
 * A Müllsäcke
+
+Im Club nicht vergessen:
+* Badge an s übergeben
+* W Seife (Haarwaschmittel und so Kram…)
+* Aspirin
+* W Zahnbuerste
+* W Zahnpasta
+
 
 Gepackt:
 
