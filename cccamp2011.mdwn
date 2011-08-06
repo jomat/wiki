@@ -1,7 +1,5 @@
 #Bringen dringend
 
-* R Thinkpad-Netzteil
-* R Thinkpad
 * J N900
 * T Microusbkabel (Plural)
 * A/T Food: Jokurt, Kekse etc.
@@ -20,6 +18,8 @@
 
 ##Rucksack:
 
+* R Thinkpad-Netzteil
+* R Thinkpad
 * Badehose
 * kurze Hose
 * R Pickset
