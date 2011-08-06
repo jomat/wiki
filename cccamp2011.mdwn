@@ -5,7 +5,6 @@ Bringen dringend
 * J N900
 * T Microusbkabel (Plural)
 * A/T Food: Jokurt, Kekse etc.
-* Lange Hose
 
 Bringen nicht so dringend
 
@@ -32,6 +31,7 @@ Rucksack:
 Tasche:
 
 * T Socken, Unterhosen, kurze Hosen, T-Shirts, Pullis
+* Lange Hose
 
 Bloede Tasche:
 
