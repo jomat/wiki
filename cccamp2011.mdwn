@@ -5,7 +5,6 @@ Bringen dringend
 * J N900
 * T Microusbkabel (Plural)
 * W Rasierer
-* J Geld
 * T Badehose
 * T Handtücher
 * A/T Food: Jokurt, Kekse etc.
@@ -13,7 +12,6 @@ Bringen dringend
 
 Bringen nicht so dringend
 
-* A Kissen (in Tuete verpackt)
 * A 12-Volt-Kompressor
 * A Müllsäcke
 
@@ -50,6 +48,7 @@ Bloede Tasche:
 
 Auto:
 
+* A Kissen (in Tuete verpackt)
 * A Schuhe
 * Zelt
 * Klappstuhl
