@@ -1,42 +1,42 @@
 Bringen dringend
 
-* Thinkpad-Netzteil
-* Thinkpad-Netzteil
-* Thinkpad
-* N900
-* DECT-Phon incl. Ladestation
-* Microusbkabel (Plural)
-* Zahnbuerste
-* Zahnpasta
-* Rasierer
-* Zelt
-* Schlafsack
-* Isomatte
-* Socken, Unterhosen, Hosen, T-Shirts, Pullis
-* Regenjacke
-* Geld
-* Badehose
-* Handtücher
-* Taschenschlampe
-* Akkuladegeraet
-* Kabeltrommel + Zubehoer
-* Food: Jokurt etc.
-* Klopapier
+* R Thinkpad-Netzteil
+* T Thinkpad-Netzteil
+* R Thinkpad
+* J N900
+* T DECT-Phon incl. Ladestation
+* T Microusbkabel (Plural)
+* W Zahnbuerste
+* W Zahnpasta
+* W Rasierer
+* A Zelt
+* A Schlafsack
+* A Isomatte
+* T Socken, Unterhosen, Hosen, T-Shirts, Pullis
+* A Regenjacke
+* J Geld
+* T Badehose
+* T Handtücher
+* A/T Taschenschlampe
+* A/T Akkuladegeraet
+* A Kabeltrommel + Zubehoer
+* A/T Food: Jokurt etc.
+* A Klopapier
 
 Bringen nicht so dringend
 
-* Son of Hibachi
-* Kissen
-* Seife (Haarwaschmittel und so Kram…)
-* Schuhe
-* Kompass, Stempel
-* Feldbett
-* Klappstuhl
-* Altmobiltelephon/Freerunner
-* 12-Volt-Kompressor
-* Müllsäcke
-* Pickset
-* Makita
+* A Son of Hibachi
+* A Kissen (in Tuete verpackt)
+* W Seife (Haarwaschmittel und so Kram…)
+* A Schuhe
+* B Kompass, Stempel
+* A Feldbett
+* A Klappstuhl
+* T Altmobiltelephon/Freerunner
+* A 12-Volt-Kompressor
+* A Müllsäcke
+* R Pickset
+* A Makita
 
 Legende:
 
@@ -44,3 +44,5 @@ Legende:
 * W: Waschtasche
 * R: Rucksack
 * T: Reisetasche
+* J: Jomat, Hosentasche…
+* B: Bauchtasche
