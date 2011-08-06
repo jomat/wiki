@@ -4,7 +4,6 @@ Bringen dringend
 * R Thinkpad
 * J N900
 * T Microusbkabel (Plural)
-* T Handtücher
 * A/T Food: Jokurt, Kekse etc.
 * Lange Hose
 
@@ -48,6 +47,7 @@ Bloede Tasche:
 
 Auto:
 
+* T Handtücher
 * A Kissen (in Tuete verpackt)
 * A Schuhe
 * Zelt
