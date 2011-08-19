@@ -1,4 +1,4 @@
--M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
+<font color=blue-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-r-r-r-<font color=C0C0C0>r-r</font>-p-<font color=C0C0C0>r-r</font>-r-r-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|<font color=C0C0C0>/|/</font>|X|X|X|<font color=C0C0C0>/</font> \|X|X|X|X|X|X|X|X|<br>
