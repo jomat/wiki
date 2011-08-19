@@ -1,0 +1,53 @@
+M-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-M-r-r-r-r-r-p-r-r-r-r-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|/|/|X|X|X|/ \|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-r-r-r-r-r-l-l-l-l G r-r-r-r-r-M-M-M-M
+|X|X|X|X|X|X|X|/|/|X|X|X|X|X| |\ \|X|X|X|X|X|X|X|
+M-M-M-M-M-r-r-r-r-l-l-l-l-l-l G-G r-r-r-r-M-M-M-M
+|X|X|X|X|X|/ \|X|X|X|X|X|X|X| |/ /|X|\|X|X|X|X|X|
+M-M-M-M-r-r G l-l-l-l-l-l-l-s G s-l-l-r-r-r-M-M-M
+|X|X|X|X|/ /| |X|X|X|X|X|X|/| | |X|X|X|\|X|X|X|X|
+M-M-M-M-r G-G l-s-s-s-s-s-s-s-G s-l-l-r-r-r-M-M-M
+|X|X|X|X| |X|\ /|X|X|X|X|X|X|X| |X|X|X|\|X|X|X|X|
+M-M-M-M-r W-p-p-W-W-p-p-p-W-W-G a-l-l-l-r-r-M-M-M
+|X|X|X|X| |X|X|X|X|X|X|X|X|X|X|  /|X|X|X|X|X|X|X|
+M-M-M-r-r W-W-p-W-p-W-W-p-W-W-G   s-l-l-r-r-M-M-M
+|X|X|X|/ /|X|X|X|X|X|X|X|X|X|X|        \|X|X|X|X|
+M-M-M-r W-W-W-p-p-W-W-W-p-W-W-G-G-G-G-G r-M-r-r-M
+|X|X|X| |X|X|X|\   \|X|X|X|X|X|X|/ \|/ /|X|X|X|X|
+M-M-r-r W-W-W-W     W-W-W-p-p-p-E   G W-r-r-r-r-M
+|X|X|/ /|X|X|X|Ebene|X|X|X|X|X|/      |X|X|\|X|X|
+M-M-r W-p-W-W-W     W-W-W-W-E-E Ebene k-b-b-L-r-M
+|X|X| |X|X|X|X| Borsippa              |X|X|X|X|X|
+M-M-r W-W-p-W-W              Tadmor  -s-H-l-p-r-M
+|X|X| |X|X|X|X|     Orkberge          |X|X|X|X|X|
+M-M-r W-W-p-W-W                       S-b-b-r-r-M
+|X|X|\ \|X|X|X|\         /            |X|X|X|X|X|
+M-M-r-r W-p-W-W-W-W-p-p-p  -D-D-D   D-D-l-l-r-r-M
+|X|X|X| |X|X|X|X|X|X|X|X|        \ /       \|X|X|
+M-M-M-r W-W-p-p-p-p-W-W-W         D         r-M-M
+|X|X|X|\     \|X|X|/                       /|X|X|
+M-M-r-r-l-s-s-s-W-p Düster-     s-s-l-l-l-r-r-r-M
+|X|X|X|X|X|X|\|X|X| Wald        |/|X|X|X|/|/|X|X|
+M-M-r-r-l-l-l-W-W-p             s-l-l-l-r-r-r-r-M
+|X|X|X|X|X|X|X|X|X|\   Handels- |X|X|X|X|X|X|X|X|
+M-M-r-r-l-l-l-s-W-W-p-W  weg    s-l-l-l-r-r-r-r-M
+|X|X|X|X|X|X|X|X|X|X|X|         |\|X|X|X|X|X|X|X|
+M-r-r-p-r-l-l-s-s-s-W-p  Terqa  s-r-r-r-r-r-M-M-M
+|X|X|X|X|\|X|X|X|\|X|X|         |X|/|X|X|X|X|X|X|
+M-M-r-r-r-r-l-l-l-s-W-p         s-r-r-r-r-M-M-M-M
+|X|X|X|X|\|\|X|X|X|X|X|\  |  \ /|/|X|X|X|X|X|X|X|
+M-M-M-r-r-r-r-r-l-s-s-s-s-s-s-s-r-r-r-M-M-M-M-M-M
+|X|X|X|X|X|\|X|\|/|X|X|X|/|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-r-r-r-r-r-r-r-r-r-r-H-r-M-M-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-r-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-J-M
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
