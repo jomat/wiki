@@ -1,4 +1,3 @@
-<FONT FACE="Courier New" STYLE="font-size: 8pt" COLOR="#0000FF">M</FONT><font color=blue face="Courier New" style="font-size: 8pt">
 -M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-r-r-r-<font color=C0C0C0>r-r</font>-p-<font color=C0C0C0>r-r</font>-r-r-M-M-M-M-M-M-M-M<br>
