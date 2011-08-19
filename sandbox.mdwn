@@ -1,53 +1,126 @@
-M-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-M-r-r-r-r-r-p-r-r-r-r-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|/|/|X|X|X|/ \|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-r-r-r-r-r-l-l-l-l G r-r-r-r-r-M-M-M-M
-|X|X|X|X|X|X|X|/|/|X|X|X|X|X| |\ \|X|X|X|X|X|X|X|
-M-M-M-M-M-r-r-r-r-l-l-l-l-l-l G-G r-r-r-r-M-M-M-M
-|X|X|X|X|X|/ \|X|X|X|X|X|X|X| |/ /|X|\|X|X|X|X|X|
-M-M-M-M-r-r G l-l-l-l-l-l-l-s G s-l-l-r-r-r-M-M-M
-|X|X|X|X|/ /| |X|X|X|X|X|X|/| | |X|X|X|\|X|X|X|X|
-M-M-M-M-r G-G l-s-s-s-s-s-s-s-G s-l-l-r-r-r-M-M-M
-|X|X|X|X| |X|\ /|X|X|X|X|X|X|X| |X|X|X|\|X|X|X|X|
-M-M-M-M-r W-p-p-W-W-p-p-p-W-W-G a-l-l-l-r-r-M-M-M
-|X|X|X|X| |X|X|X|X|X|X|X|X|X|X|  /|X|X|X|X|X|X|X|
-M-M-M-r-r W-W-p-W-p-W-W-p-W-W-G   s-l-l-r-r-M-M-M
-|X|X|X|/ /|X|X|X|X|X|X|X|X|X|X|        \|X|X|X|X|
-M-M-M-r W-W-W-p-p-W-W-W-p-W-W-G-G-G-G-G r-M-r-r-M
-|X|X|X| |X|X|X|\   \|X|X|X|X|X|X|/ \|/ /|X|X|X|X|
-M-M-r-r W-W-W-W     W-W-W-p-p-p-E   G W-r-r-r-r-M
-|X|X|/ /|X|X|X|Ebene|X|X|X|X|X|/      |X|X|\|X|X|
-M-M-r W-p-W-W-W     W-W-W-W-E-E Ebene k-b-b-L-r-M
-|X|X| |X|X|X|X| Borsippa              |X|X|X|X|X|
-M-M-r W-W-p-W-W              Tadmor  -s-H-l-p-r-M
-|X|X| |X|X|X|X|     Orkberge          |X|X|X|X|X|
-M-M-r W-W-p-W-W                       S-b-b-r-r-M
-|X|X|\ \|X|X|X|\         /            |X|X|X|X|X|
-M-M-r-r W-p-W-W-W-W-p-p-p  -D-D-D   D-D-l-l-r-r-M
-|X|X|X| |X|X|X|X|X|X|X|X|        \ /       \|X|X|
-M-M-M-r W-W-p-p-p-p-W-W-W         D         r-M-M
-|X|X|X|\     \|X|X|/                       /|X|X|
-M-M-r-r-l-s-s-s-W-p Düster-     s-s-l-l-l-r-r-r-M
-|X|X|X|X|X|X|\|X|X| Wald        |/|X|X|X|/|/|X|X|
-M-M-r-r-l-l-l-W-W-p             s-l-l-l-r-r-r-r-M
-|X|X|X|X|X|X|X|X|X|\   Handels- |X|X|X|X|X|X|X|X|
-M-M-r-r-l-l-l-s-W-W-p-W  weg    s-l-l-l-r-r-r-r-M
-|X|X|X|X|X|X|X|X|X|X|X|         |\|X|X|X|X|X|X|X|
-M-r-r-p-r-l-l-s-s-s-W-p  Terqa  s-r-r-r-r-r-M-M-M
-|X|X|X|X|\|X|X|X|\|X|X|         |X|/|X|X|X|X|X|X|
-M-M-r-r-r-r-l-l-l-s-W-p         s-r-r-r-r-M-M-M-M
-|X|X|X|X|\|\|X|X|X|X|X|\  |  \ /|/|X|X|X|X|X|X|X|
-M-M-M-r-r-r-r-r-l-s-s-s-s-s-s-s-r-r-r-M-M-M-M-M-M
-|X|X|X|X|X|\|X|\|/|X|X|X|/|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-r-r-r-r-r-r-r-r-r-r-H-r-M-M-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-r-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-J-M
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
+<body text=FFFFFF bgcolor=000000>
+
+<DIV ALIGN="center">
+  <CENTER>
+   <font face="Forte" size="6" color=00CC00>Vaniorh</font><br>
+   <font color=00CC00 face="Courier New" style="font-Size: 8pt">(<A TITLE="Weltkarte" HREF="../Index.html"><font color=00CC00>zurück zur Weltkarte</font></A>)</font>
+
+   <br>
+   <br>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" BORDERCOLOR="#111111" WIDTH="348" ID="AutoNumber2">
+  <TR>
+    <TD WIDTH="348">
+    <FONT FACE="Courier New" STYLE="font-size: 8pt" COLOR="#0000FF">M</FONT><font color=blue face="Courier New" style="font-size: 8pt">-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+
+    M-M-M-M-M-M-M-r-r-r-<font color=C0C0C0>r-r</font>-p-<font color=C0C0C0>r-r</font>-r-r-M-M-M-M-M-M-M-M<br>
+    |X|X|X|X|X|X|X|X|X|<font color=C0C0C0>/|/</font>|X|X|X|<font color=C0C0C0>/</font> \|X|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-M-r-r-<font color=C0C0C0>r-r-r</font>-l-l-l-l <font color=808080>G</font> r-r-r-r-r-M-M-M-M<br>
+
+    |X|X|X|X|X|X|X|<font color=C0C0C0>/|/</font>|X|X|X|X|X| <font color=808080>|\</font> \|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-r-r-<font color=C0C0C0>r-r</font>-l-l-l-l-l-l <font color=808080>G-G</font> <font color=C0C0C0>r-r-r</font>-r-M-M-M-M<br>
+
+    |X|X|X|X|X|/ <font color=C0C0C0>\</font>|X|X|X|X|X|X|X| <font color=808080>|/</font> <font color=FFFF00>/</font>|X|<font color=C0C0C0>\|</font>X|X|X|X|X|<br>
+    M-M-M-M-r-r <font color=808080>G</font> l-l-l-l-l-l-l-<font color=FFFF00>s <font color=808080>G</font> s</font>-l-l-<font color=C0C0C0>r</font>-r-r-M-M-M<br>
+
+    |X|X|X|X|/ <font color=808080>/|</font> |X|X|X|X|X|X|<font color=FFFF00>/| <font color=808080>|</font> |</font>X|X|X<font color=C0C0C0>|\</font>|X|X|X|X|<br>
+    M-M-M-M-r <font color=808080>G-G</font> l-<font color=FFFF00>s-s-s-s-s-s-s-<font color=808080>G</font> s</font>-l-l-<font color=C0C0C0>r-r</font>-r-M-M-M<br>
+
+    |X|X|X|X| <font color=008000>|X|\ /|X|X|X|X|X|X|X</font><font color=808080>|</font> <font color=FFFF00>|</font>X|X|X|<font color=C0C0C0>\|</font>X|X|X|X|<br>
+    M-M-M-M-r <font color=008000>W-<font color=CC6600>p-p</font>-W-W-<font color=CC6600>p-p-p</font>-W-W-</font><font color=808080>G</font> <font color=00CCFF>a</font>-l-l-l-<font color=C0C0C0>r</font>-r-M-M-M<br>
+
+    |X|X|X|X| <font color=008000>|X|X<font color=CC6600>|</font>X|X|<font color=CC6600>X</font>|X|X<font color=CC6600>|</font>X|X|X</font><font color=808080>|</font>&nbsp; /|X|X|X<font color=C0C0C0>|</font>X|X|X|X|<br>
+    M-M-M-r-r <font color=008000>W-W-<font color=CC6600>p</font>-W-<font color=CC6600>p</font>-W-W-<font color=CC6600>p</font>-W-W-</font><font color=808080>G</font> &nbsp;&nbsp;<A TITLE="Ebene" HREF="Vaniorh/Ebene.html"><font color=FFFF00>s</font></A>-l-l-<font color=C0C0C0>r</font>-r-M-M-M<br>
+
+    |X|X|X|/ <font color=008000>/|X|X<font color=CC6600>|</font>X|<font color=CC6600>X</font>|X|X|X<font color=CC6600>|</font>X|X|X</font><font color=808080>|</font> &nbsp; &nbsp;&nbsp; &nbsp; \|X|X|X|X|<br>
+    M-M-M-r <font color=008000>W-W-W-<font color=CC6600>p-p</font>-W-W-W-<font color=CC6600>p</font>-W-W-</font><font color=808080>G-G-G-G-G</font> r-M-r-r-M<br>
+
+    |X|X|X| <font color=008000>|X|X|X|<font color=CC6600>\</font> &nbsp; \|X|X|<font color=CC6600>X</font>|X|</font><font color=00CC00>X|X|/</font> <font color=808080>\|/</font> <font color=C0C0C0>/</font>|X|X|X|X|<br>
+    M-M-r-r <font color=008000>W-W-W-W &nbsp; &nbsp; W-W-W-</font><font color=CC6600>p-p-p</font><font color=00CC00>-E</font> &nbsp; <font color=808080>G</font>&nbsp;<font color=FFCC00>W</font><font color=C0C0C0>-r-r-r</font>-r-M<br>
+
+    |X|X|/ <font color=008000>/|X|X|X|<A TITLE="Borsippa-Ebene" HREF="Vaniorh/Borsippa_Ebene.html"><font color=00CC00>Ebene</font></A>|X|X|X|X</font><font color=00CC00>|X|/</font> &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font>X|X|<font color=C0C0C0>\|</font>X|X|<br>
+    M-M-r <font color=008000>W-<font color=CC6600>p</font>-W-W-W&nbsp;&nbsp; &nbsp; W-W-W-W</font><font color=00CC00>-E-E</font> <A TITLE="Ebene" HREF="Vaniorh/Ebene.html"><font color=00CC00>Ebene</font></A> <font color=C0C0C0>k</font>-b-b-<font color=00CCFF>L</font>-r-M<br>
+
+    |X|X| <font color=008000>|X|<font color=CC6600>X</font>|X|X|</font> <A TITLE="Borsippa" HREF="Vaniorh/Borsippa.html"><font color=00CCFF>Borsippa</font></A> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font>X|X|X|X|X|<br>
+
+    M-M-r <font color=008000>W-W-<font color=CC6600>p</font>-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Tadmor" HREF="Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</font></A> &nbsp;<font color=C0C0C0>-</font><font color=CC6600>s-</font><A TITLE="Ebene" HREF="Vaniorh/Ebene.html"><font color=00CCFF>H</font></A>-l-p-r-M<br>
+
+    |X|X| <font color=008000>|X|X<font color=CC6600>|</font>X|X|</font> &nbsp; &nbsp; <A TITLE="Orkberge" HREF="Vaniorh/Orkberge.html"><font color=808080>Orkberge</font></A> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFFF00>|</font>X|X|X|X|X|<br>
+
+    M-M-r <font color=008000>W-W-<font color=CC6600>p</font>-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <A TITLE="Ebene" HREF="Vaniorh/Ebene.html"><font color=FFCC00>S</font></A>-b-b-<font color=C0C0C0>r</font>-r-M<br>
+
+    |X|X|\ <font color=008000>\|X<font color=CC6600>|</font>X|X|\</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=CC6600>/</font> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; |X|X|X<font color=C0C0C0>|</font>X|X|<br>
+
+    M-M-r-r <font color=008000>W-<font color=CC6600>p</font>-W-W-W-W-<font color=CC6600>p-p-p</font></font> &nbsp;-<font color=00CCFF>D</font>-D-D &nbsp; D-D-l-l-<font color=C0C0C0>r</font>-r-M<br>
+    |X|X|X| <font color=008000>|X|<font color=CC6600>X</font>|X|X|X|<font color=CC6600>X</font>|X|X|</font> &nbsp; &nbsp; &nbsp; &nbsp;\ / &nbsp; &nbsp; &nbsp; <font color=C0C0C0>\</font>|X|X|<br>
+
+    M-M-M-r <font color=008000>W-W-<font color=CC6600>p-p-p-p</font>-W-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; D &nbsp; &nbsp; &nbsp; &nbsp; r-M-M<br>
+
+    |X|X|X|<font color=C0C0C0>\</font> &nbsp; &nbsp; <font color=008000>\|X|X<font color=CC6600>|</font>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>/</font>|X|X|<br>
+
+    M-M-r-<font color=C0C0C0>r</font>-l-<font color=FFFF00>s-s-s</font><font color=008000>-W-<font color=CC6600>p</font> <A TITLE="Düsterwald" HREF="Vaniorh/Duesterwald.html"><font color=008000>Düster-</font></A></font>&nbsp; &nbsp;&nbsp; <font color=FFFF00>s-s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-M<br>
+    |X|X|X<font color=C0C0C0>|</font>X|X|X|<font color=FFFF00>\|</font><font color=008000>X|X<font color=CC6600>|</font> <A TITLE="Düsterwald" HREF="Vaniorh/Duesterwald.html"><font color=008000>Wald</font></A></font>&nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>|/</font>|X|X|X|<font color=C0C0C0>/|/</font>|X|X|<br>
+
+    M-M-r-<font color=C0C0C0>r</font>-l-l-l-<font color=008000>W-W-<font color=CC6600>p</font></font> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=FFFF00>s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-r-M<br>
+    |X|X|X<font color=C0C0C0>|</font>X|X|X|X<font color=FFFF00>|</font><font color=008000>X|X|<font color=CC6600>\</font></font> &nbsp; <A TITLE="Handelsweg" HREF="Vaniorh/Handelsweg.html"><font color=C0C0C0>Handels-</font></A> <font color=FFFF00>|</font>X|X|X|X<font color=C0C0C0>|X|</font>X|X|X|<br>
+
+    M-M-r-<font color=C0C0C0>r</font>-l-l-l-<font color=FFFF00>s</font><font color=008000>-W-W-<font color=CC6600>p</font>-W&nbsp; <A TITLE="Handelsweg" HREF="Vaniorh/Handelsweg.html"><font color=C0C0C0>weg</font></A>&nbsp;&nbsp;&nbsp; s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-r-M<br>
+    |X|X|X|X|X|X|X<font color=FFFF00>|X</font><font color=008000>|X|X|<font color=CC6600>X</font>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\</font>|X|X|X|X|X|X|X|<br>
+
+    M-r-r-p-<font color=C0C0C0>r</font>-l-l-<font color=FFFF00>s-s-s</font><font color=008000>-W-<font color=CC6600>p </font></font>&nbsp;<A TITLE="Terqa" HREF="Vaniorh/Terqa.html"><font color=00CCFF>Terqa</font></A>&nbsp; <font color=FFFF00>s-</font><font color=C0C0C0>r-r-r</font>-r-r-M-M-M<br>
+    |X|X|X|X<font color=C0C0C0>|\</font>|X|X|X|<font color=FFFF00>\|</font><font color=008000>X|X<font color=CC6600>|</font></font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>|</font><font color=C0C0C0>X|/</font>|X|X|X|X|X|X|<br>
+
+    M-M-r-r-<font color=C0C0C0>r-r</font>-l-l-l-<font color=FFFF00>s</font><font color=008000>-W-<font color=CC6600>p</font></font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>s</font><font color=C0C0C0>-r</font>-r-r-r-M-M-M-M<br>
+    |X|X|X|X|<font color=C0C0C0>\|\</font>|X|X|X<font color=FFFF00>|X</font><font color=008000>|X|\</font>&nbsp; <font color=C0C0C0>|</font>&nbsp; <font color=008000>\</font> <font color=FFFF00>/</font><font color=C0C0C0>|/</font>|X|X|X|X|X|X|X|<br>
+
+    M-M-M-r-r-<font color=C0C0C0>r-r-r</font>-l-<font color=FFFF00>s-s-s-s-<font color=CC6600>s</font>-s-s</font><font color=C0C0C0>-r</font>-r-r-M-M-M-M-M-M<br>
+    |X|X|X|X|X|<font color=C0C0C0>\|X|\</font>|<font color=C0C0C0>/|X|X|X</font><font color=FFFF00>|/</font><font color=CC6600>|</font>X|X|X|X|X|X|X|X|X|X|X|<br>
+
+    M-M-M-r-r-r-<font color=C0C0C0>r-r-r-r-r-r-r</font>-<font color=00CCFF>H</font>-r-M-M-M-M-M-M-M-M-M-M<br>
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-r-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M-M-M-M<br>
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CCFF>J</font>-M<br>
+    |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+
+    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</FONT></TD>
+  </TR>
+</TABLE>
+
+  </CENTER>
+</DIV>
+<br>
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+<font color=00CCFF>Legende:</font><br>
+<font color=blue>b =</font> Bucht<br>
+
+<font color=00CCFF>D =</font> In diesem Feld des Dijala kann man entfeder weiter nach Westen nach <A TITLE="Tadmor" HREF="Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</font></A> reinschwimmen oder an das linke (<A TITLE="Handelsweg" HREF="Vaniorh/Handelsweg.html"><font color=00CCFF>Handelsweg</font></A>) oder rechte (<A TITLE="Ebene" HREF="Vaniorh/Ebene.html"><font color=00CCFF>Ebene</font></A>) Flussufer waten<br>
+<font color=blue>D =</font> Dijala<br>
+<font color=808080>G =</font> Gebrirge<br>
+
+<font color=00CCFF>L =</font> Leuchtturm<br>
+<font color=blue>l =</font> Lagune<br>
+<font color=00CCFF>H =</font> Hafen (Kurstafel)<br>
+<font color=00CCFF>J =</font> Jungbrunneninsel<br>
+<font color=C0C0C0>k =</font> Kaimauer<br>
+
+<font color=blue>M =</font> Meer<br>
+<font color=CC6600>p =</font> Pfad / Weg<br>
+<font color=blue>p =</font> Passage<br>
+<font color=C0C0C0>r =</font> Riff<br>
+<font color=blue>r =</font> In der brandung vor einem Riff<br>
+
+<font color=FFCC00>S =</font> Strand / Fischereihafen (es liegen mehrere Felder hier die ich aus Platzgründen nur in der Detailkarte der Ebene genauer zeige)<br>
+<font color=FFFF00>s =</font> Strand<br>
+<font color=CC6600>s =</font> Steg<br>
+<font color=008000>W =</font> Wald<br>
+<font color=FFCC00>W =</font> Ehemaliges Werft-Gelände<br>
+
+<br>
+<center><font color=00CC00>(<A TITLE="Weltkarte" HREF="../Index.html"><font color=00CC00>zurück zur Weltkarte</font></A>)</font></center>
