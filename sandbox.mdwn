@@ -1,17 +1,4 @@
-<body text=FFFFFF bgcolor=000000>
-
-<DIV ALIGN="center">
-  <CENTER>
-   <font face="Forte" size="6" color=00CC00>Vaniorh</font><br>
-   <font color=00CC00 face="Courier New" style="font-Size: 8pt">(<A TITLE="Weltkarte" HREF="../Index.html"><font color=00CC00>zurück zur Weltkarte</font></A>)</font>
-
-   <br>
-   <br>
-
-<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" BORDERCOLOR="#111111" WIDTH="348" ID="AutoNumber2">
-  <TR>
-    <TD WIDTH="348">
-    <FONT FACE="Courier New" STYLE="font-size: 8pt" COLOR="#0000FF">M</FONT><font color=blue face="Courier New" style="font-size: 8pt">-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
+-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
     |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 
     M-M-M-M-M-M-M-r-r-r-<font color=C0C0C0>r-r</font>-p-<font color=C0C0C0>r-r</font>-r-r-M-M-M-M-M-M-M-M<br>
@@ -89,9 +76,7 @@
     M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CCFF>J</font>-M<br>
     |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 
-    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</FONT></TD>
-  </TR>
-</TABLE>
+    M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</FONT>
 
   </CENTER>
 </DIV>
