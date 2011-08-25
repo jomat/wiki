@@ -69,3 +69,47 @@
  * gruen: Bootloader selektiert
  * Gelb stehend: ACAB-Lampe
  * fadend: Uberbuslampe
+
+
+# uberbus
+mir ist es folgendermaßen gelungen, uberbus-Firmware auf die ACAB-Lampen zu flashen:
+##Benoetigte Software:
+
+- svn co https://brezn.muc.ccc.de/svn/moodlamp-rf/
+- git clone git://github.com/muccc/uberbus.git
+
+## software bauen
+dazu erstmal die uberbus/firmware/moodlamp-rf/Makefile anpassen und folgende zwei Variablen richtig setzen:
+
+    MCU = atmega324p
+    FORMAT = binary
+
+dann erstmal bauen
+
+##software flashen
+ich habe mit der Bridge-Firmware aus moodlamp-rf geflashed AFAIR, macht aber vermutlich keinen Unterschied. Ebenso habe ich mit dem flash.py aus moodlamp-rf/trunk/ubloader geflashed.
+
+###viele viele Lampen flashen
+um automatisiert viele Lampen zu flashen, kann man das da hernehmen:<br>
+nb: cd moodlamp-rf/trunk/ubloader
+
+    #!/bin/sh
+    while true;
+    do
+     echo -n enter lamp [e.g. 2C]:
+     read LAMP
+     ./select-m324p
+     echo Flashing \"$LAMP\"
+     python flash.py -A write -m eeprom -d 'lamp'$LAMP',muc.ccc.de\x00'
+     python flash.py -p 128 -f /tmp/uberbus/firmware/moodlamp-rf/fnordlicht.hex -A write
+     ./read-m644p
+     ./boot-m644p
+     echo -n does everything look ok?
+     read OK
+     if [ "y" != $OK ]
+     then
+      echo alarm
+      exit 1
+     fi
+     echo $LAMP >> lamplist
+    done
