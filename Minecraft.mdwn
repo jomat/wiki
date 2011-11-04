@@ -1,2 +1,2 @@
 # Change username on LAN games
-java -cp "/home/jomat/.minecraft/bin/*" -Djava.library.path=/home/jomat/.minecraft/bin/natives net.minecraft.client.Minecraft "jomat"
+java -cp "~/.minecraft/bin/*" -Djava.library.path=~/.minecraft/bin/natives net.minecraft.client.Minecraft "deinnick"
