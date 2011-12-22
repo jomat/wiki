@@ -1,4 +1,4 @@
-# Troubleshooting
+# Hints an Tips
 
 ## Themes are broken (no borders around UI elements, …)
 * be sure that busybox is chmod -s
