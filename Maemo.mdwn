@@ -10,3 +10,12 @@
 * edit control panel list:
  * gconftool-2 -t list --list-type=int -s /system/osso/dsm/display/possible_display_dim_timeouts [30,60,120,300,600,1800,3600]
  * gconftool-2 -t list --list-type=int -s /system/osso/dsm/display/possible_display_blank_timeouts [30,60,120,300,600,1800,3600]
+
+## Add dummy connection (i. e. for bluetooth or usb networking)
+* gconftool -s -t string /system/osso/connectivity/IAP/DEFAULT/type DUMMY
+
+## Signalize full battery
+* gconftool --set /system/osso/dsm/leds/PatternBatteryFull --type=boolean true
+
+## Disable camera application (N800)
+* gconftool --set /system/osso/af/launch-on-camera --type=boolean false
