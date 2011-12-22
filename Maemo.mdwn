@@ -2,3 +2,11 @@
 
 ## Themes are broken (no borders around UI elements, …)
 * be sure that busybox is chmod -s
+
+## Set display timeout
+* once:
+ * gconftool-2 -s "/system/osso/dsm/display/display_dim_timeout" 1800 -t INT
+ * gconftool-2 -s "/system/osso/dsm/display/display_blank_timeout" 3600 -t INT
+* edit control panel list:
+ * gconftool-2 -t list --list-type=int -s /system/osso/dsm/display/possible_display_dim_timeouts [30,60,120,300,600,1800,3600]
+ * gconftool-2 -t list --list-type=int -s /system/osso/dsm/display/possible_display_blank_timeouts [30,60,120,300,600,1800,3600]
