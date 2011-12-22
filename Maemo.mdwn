@@ -19,3 +19,6 @@
 
 ## Disable camera application (N800)
 * gconftool --set /system/osso/af/launch-on-camera --type=boolean false
+
+## (almost) disable catalogue updates (n900 only?)
+* gconftool -s --type int /apps/hildon/update-notifier/check_interval 2147483647
